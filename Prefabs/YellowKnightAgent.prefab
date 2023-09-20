@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1742911309573661023
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2703296416164355144, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fbb6c498843bd8b4487e7f36b449fb77, type: 2}
+    - target: {fileID: 3142422408475487770, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577469467762789868, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Name
+      value: YellowKnightAgent
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577469467762789868, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_TagString
+      value: YellowTeamAgent
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602250811201704893, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Color.b
+      value: 0.019607844
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602250811201704893, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Color.g
+      value: 0.7058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 4602250811201704893, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4680838235962616059, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 5760925490004638001, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: TeamId
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.72
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6019961879558070346, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: AgentTeam
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6019961879558070346, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: OriginalMaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: fbb6c498843bd8b4487e7f36b449fb77, type: 2}
+    - target: {fileID: 8361925395060928877, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Layer
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 9042213688557710364, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_RayLayerMask.m_Bits
+      value: 4294939208
+      objectReference: {fileID: 0}
+    - target: {fileID: 9042213688557710364, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_DetectableTags.Array.data[1]
+      value: YellowTeamAgent
+      objectReference: {fileID: 0}
+    - target: {fileID: 9042213688557710364, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_DetectableTags.Array.data[2]
+      value: RedTeamAgent
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
