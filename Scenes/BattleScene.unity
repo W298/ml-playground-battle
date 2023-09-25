@@ -490,8 +490,8 @@ MonoBehaviour:
   m_MaximumDistance: 5000
   m_MinimumFOV: 3
   m_MaximumFOV: 60
-  m_MinimumOrthoSize: 10
-  m_MaximumOrthoSize: 10
+  m_MinimumOrthoSize: 7
+  m_MaximumOrthoSize: 7
 --- !u!1 &411750149
 GameObject:
   m_ObjectHideFlags: 0
@@ -677,6 +677,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6323893559764064366, guid: 8a57436f413109f41ae569225218cadc, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -694,6 +698,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedKnightAgent (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5760925490004638001, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4
@@ -751,6 +759,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedKnightAgent (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5760925490004638001, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
       propertyPath: m_LocalPosition.x
       value: 4
@@ -1099,6 +1111,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6323893559764064366, guid: 8a57436f413109f41ae569225218cadc, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1235,7 +1251,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -2005,6 +2021,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RedKnightAgent
       objectReference: {fileID: 0}
+    - target: {fileID: 5760925490004638001, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     - target: {fileID: 5772074912124024700, guid: ac58b53e0fda4ff4bbfcfd30e60aaf64, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -2102,6 +2122,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6323893559764064366, guid: 8a57436f413109f41ae569225218cadc, type: 3}
+      propertyPath: m_Model
+      value: 
+      objectReference: {fileID: 5022602860645237092, guid: ec46f0410c7507744abe66cd8664659c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

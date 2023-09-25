@@ -17,6 +17,7 @@ namespace Battle
             if (other.collider.CompareTag("Sword") && other.collider.enabled)
             {
                 var attacker = other.collider.transform.parent.GetComponent<BattleAgent>();
+                if (attacker == null || m_knightAgent == null) return;
                 if (attacker.AgentTeam == m_knightAgent.AgentTeam) return;
                 if (!attacker.IsAttackValid) return;
                 
